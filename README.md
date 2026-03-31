@@ -19,7 +19,7 @@ Conducted as a consultancy simulation for a US travel booking platform, this pro
   * Developing an interactive **Power BI Dashboard** to visualize KPIs and provide strategic recommendations for management.
 
 ## Tech Stack
-* **Language:** Python
+* **Language:** Python 3.13
 * **Statistics & Analysis:** `pandas`, `numpy`, `plotly.express`, `scipy.stats` (Chi-Square, ANOVA, T-Tests)
 * **BI Tool:** Microsoft Power BI (.pbix file included)
 

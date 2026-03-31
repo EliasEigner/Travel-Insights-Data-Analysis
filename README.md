@@ -29,6 +29,7 @@ This project was developed as a group effort for the module **"Data Analysis and
 
 ## Project Team
 This project was successfully completed in collaboration with:
-* **[EliasEigner]**
-* **[MarkusWrt]**
-* **[MerlinKlang]**
+* **[Markus]** (@MarkusWrt)
+* **[Govind]** (@Govind-crk)
+* **[Merlin]** (@MerlinKlang)
+* **[Elias]** (@EliasEigner)
